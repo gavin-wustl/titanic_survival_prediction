@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction
-This is my first Kaggle warm-up project to predict a passenger on Titanic either lives or dies
+This is a Kaggle project to predict a passenger on Titanic either lives or dies
